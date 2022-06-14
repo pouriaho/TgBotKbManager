@@ -1,0 +1,17 @@
+{
+    "name": "pouriaho/tgbotkbmanager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "pouria",
+            "email": "po.pooria@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "pouriaho\\TgBotKbManager\\": "./src/"
+        }
+    }
+}
