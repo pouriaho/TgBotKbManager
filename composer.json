@@ -1,14 +1,23 @@
 {
     "name": "pouriaho/tgbotkbmanager",
     "type": "library",
+    "description": "Keyboard management in Telegram bots (PHP)",
+    "keywords": ["telegram", "bot", "api", "keyboard", "reply keyboard markup", "inline keyboard markup"],
     "license": "MIT",
+    "homepage": "https://github.com/pouriaho/TgBotKbManager",
+    "support": {
+        "issues": "https://github.com/pouriaho/TgBotKbManager/issues",
+        "source": "https://github.com/pouriaho/TgBotKbManager"
+    },
     "authors": [
         {
             "name": "pouria",
             "email": "po.pooria@gmail.com"
         }
     ],
-    "require": {},
+    "require": {
+        "php": ">=7.4"
+    },
     "autoload": {
         "psr-4": {
             "pouriaho\\TgBotKbManager\\": "./src/"
