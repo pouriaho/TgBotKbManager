@@ -5,6 +5,7 @@
     "keywords": ["telegram", "bot", "api", "keyboard", "reply keyboard markup", "inline keyboard markup"],
     "license": "MIT",
     "homepage": "https://github.com/pouriaho/TgBotKbManager",
+    "prefer-stable": true,
     "support": {
         "issues": "https://github.com/pouriaho/TgBotKbManager/issues",
         "source": "https://github.com/pouriaho/TgBotKbManager"
