@@ -6,6 +6,7 @@
     "license": "MIT",
     "homepage": "https://github.com/pouriaho/TgBotKbManager",
     "prefer-stable": true,
+    "minimum-stability": "stable",
     "support": {
         "issues": "https://github.com/pouriaho/TgBotKbManager/issues",
         "source": "https://github.com/pouriaho/TgBotKbManager"
