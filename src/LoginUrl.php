@@ -23,7 +23,7 @@ class LoginUrl
     /**
      * @var string
      */
-    public string $bot_username = 'testmu989512352bot';
+    public string $bot_username;
 
     /**
      * @var boolean
